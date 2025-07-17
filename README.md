@@ -1,4 +1,6 @@
-# 🚀 About Me
+# Ryan Ideh
+
+<a href="https://linkedin.com/in/idehryan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate and results-driven cybersecurity expert with [Number] years of experience in [mention specific areas, e.g., penetration testing, incident response, security architecture, reverse engineering, threat intelligence]. My expertise lies in identifying vulnerabilities, developing robust security solutions, and defending against sophisticated cyber threats.
 I am committed to continuous learning and staying ahead of the evolving threat landscape. I believe in sharing knowledge and contributing to open-source initiatives that strengthen our collective digital defenses.
